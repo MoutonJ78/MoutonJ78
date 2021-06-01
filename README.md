@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ###### Dans mes répertoires tu pourra retrouver tout mes projets / fichiers ou j'ai pu apprendre les langages
+Je suis actuellement en BTS SIO en alternance dans l'école ESIEE IT ainsi qu'a JACQUET BROSSARD lorsque je suis en entreprise.
+
 
 <!--
 **MoutonJ78/MoutonJ78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
