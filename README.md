@@ -1,7 +1,10 @@
+Bonjour et bienvenue sur mon profile ✍️
+
+
+Je suis actuellement en BTS SIO en alternance dans l'école ESIEE IT 🎓 ainsi qu'a JACQUET BROSSARD 💼 lorsque je suis en entreprise.
+
+
 ###### Dans mes répertoires tu pourra retrouver tout mes projets / fichiers en python, C, java, javascrypt ainsi que des langages de balise (HTML / CSS)
-Je suis actuellement en BTS SIO en alternance dans l'école ESIEE IT ainsi qu'a JACQUET BROSSARD lorsque je suis en entreprise.
-
-
 <!--
 **MoutonJ78/MoutonJ78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
